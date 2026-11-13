@@ -1,0 +1,21 @@
+{
+ "version": 1,
+ "files": [
+  {
+   "name": "manual-careers",
+   "sha256": "47d0dbed9fadaeb84f88529f60ed2f90dbb1c0d1c8f01aea5688d0c2a21c0a98"
+  },
+  {
+   "name": "person-info",
+   "sha256": "1d79647d1f69c03cf65d4b43570e55c5a99aedb6785b71f86db1789ef167895b"
+  },
+  {
+   "name": "directory-extra",
+   "sha256": "36eb139e40b0096204ee6020925e47f43f3900171765cb2a255fd6529c8788fd"
+  },
+  {
+   "name": "careers-seed",
+   "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+  }
+ ]
+}

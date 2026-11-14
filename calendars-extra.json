@@ -1,0 +1,3072 @@
+[
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-01",
+  "name": "Monte Carlo Rally",
+  "venue": "Gap (France)",
+  "start": "2027-01-21",
+  "end": "2027-01-24",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-02",
+  "name": "Rally Sweden",
+  "venue": "Umeå (Suède)",
+  "start": "2027-02-18",
+  "end": "2027-02-21",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-03",
+  "name": "Safari Rally Kenya",
+  "venue": "Nairobi (Kenya)",
+  "start": "2027-03-18",
+  "end": "2027-03-21",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-04",
+  "name": "Croatia Rally",
+  "venue": "Rijeka (Croatie)",
+  "start": "2027-04-08",
+  "end": "2027-04-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-05",
+  "name": "Rally Islas Canarias",
+  "venue": "Las Palmas (Espagne)",
+  "start": "2027-05-06",
+  "end": "2027-05-09",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-06",
+  "name": "Rally Japan",
+  "venue": "Toyota (Japon)",
+  "start": "2027-06-03",
+  "end": "2027-06-06",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-07",
+  "name": "Acropolis Rally Greece",
+  "venue": "Loutraki (Grèce)",
+  "start": "2027-06-24",
+  "end": "2027-06-27",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-08",
+  "name": "Rally d'Italia",
+  "venue": "Rome (Italie)",
+  "start": "2027-07-08",
+  "end": "2027-07-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-09",
+  "name": "Rally Estonia",
+  "venue": "Tartu (Estonie)",
+  "start": "2027-07-22",
+  "end": "2027-07-25",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-10",
+  "name": "Rally Finland",
+  "venue": "Jyväskylä (Finlande)",
+  "start": "2027-07-29",
+  "end": "2027-08-01",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-11",
+  "name": "Rally US",
+  "venue": "Knoxville (États-Unis)",
+  "start": "2027-08-26",
+  "end": "2027-08-29",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-12",
+  "name": "Rally Scotland",
+  "venue": "Aberdeen (Écosse)",
+  "start": "2027-09-30",
+  "end": "2027-10-03",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-13",
+  "name": "Rally del Paraguay",
+  "venue": "Encarnación (Paraguay)",
+  "start": "2027-10-21",
+  "end": "2027-10-24",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-14",
+  "name": "Rally Chile",
+  "venue": "Concepción (Chili)",
+  "start": "2027-11-04",
+  "end": "2027-11-07",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "wrc",
+  "id": "wrc-2027-15",
+  "name": "Rally Saudi Arabia",
+  "venue": "Jeddah (Arabie saoudite)",
+  "start": "2027-11-25",
+  "end": "2027-11-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_World_Rally_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-01",
+  "name": "Rolex 24 at Daytona",
+  "venue": "Daytona International Speedway",
+  "start": "2027-01-30",
+  "end": "2027-01-31",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-02",
+  "name": "Mobil 1 Twelve Hours of Sebring",
+  "venue": "Sebring International Raceway",
+  "start": "2027-03-20",
+  "end": "2027-03-20",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-03",
+  "name": "Acura Grand Prix of Long Beach",
+  "venue": "Long Beach Street Circuit",
+  "start": "2027-04-17",
+  "end": "2027-04-17",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-04",
+  "name": "Monterey SportsCar Championship",
+  "venue": "WeatherTech Raceway Laguna Seca",
+  "start": "2027-05-02",
+  "end": "2027-05-02",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-05",
+  "name": "Chevrolet Detroit Sports Car Classic",
+  "venue": "Detroit Street Circuit",
+  "start": "2027-06-05",
+  "end": "2027-06-05",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-06",
+  "name": "Six Hours of The Glen",
+  "venue": "Watkins Glen International",
+  "start": "2027-06-27",
+  "end": "2027-06-27",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-07",
+  "name": "Chevrolet Grand Prix",
+  "venue": "Canadian Tire Motorsport Park",
+  "start": "2027-07-11",
+  "end": "2027-07-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-08",
+  "name": "Motul SportsCar Endurance Grand Prix",
+  "venue": "Road America",
+  "start": "2027-08-08",
+  "end": "2027-08-08",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-09",
+  "name": "Michelin GT Challenge at VIR",
+  "venue": "Virginia International Raceway",
+  "start": "2027-08-22",
+  "end": "2027-08-22",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-10",
+  "name": "Battle on the Bricks",
+  "venue": "Indianapolis Motor Speedway",
+  "start": "2027-09-19",
+  "end": "2027-09-19",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "imsa",
+  "id": "imsa-2027-11",
+  "name": "Motul Petit Le Mans",
+  "venue": "Michelin Raceway Road Atlanta",
+  "start": "2027-10-09",
+  "end": "2027-10-09",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_IMSA_SportsCar_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "elms",
+  "id": "elms-2027-01",
+  "name": "4 Hours of Barcelona",
+  "venue": "Circuit de Barcelona-Catalunya",
+  "start": "2027-03-14",
+  "end": "2027-03-14",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_European_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "elms",
+  "id": "elms-2027-02",
+  "name": "4 Hours of Le Castellet",
+  "venue": "Circuit Paul Ricard",
+  "start": "2027-05-02",
+  "end": "2027-05-02",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_European_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "elms",
+  "id": "elms-2027-03",
+  "name": "4 Hours of Imola",
+  "venue": "Imola Circuit",
+  "start": "2027-07-04",
+  "end": "2027-07-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_European_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "elms",
+  "id": "elms-2027-04",
+  "name": "4 Hours of Spa-Francorchamps",
+  "venue": "Circuit de Spa-Francorchamps",
+  "start": "2027-08-22",
+  "end": "2027-08-22",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_European_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "elms",
+  "id": "elms-2027-05",
+  "name": "4 Hours of Silverstone",
+  "venue": "Silverstone Circuit",
+  "start": "2027-09-05",
+  "end": "2027-09-05",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_European_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "elms",
+  "id": "elms-2027-06",
+  "name": "4 Hours of Portimão",
+  "venue": "Algarve International Circuit",
+  "start": "2027-10-16",
+  "end": "2027-10-16",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_European_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "alms",
+  "id": "alms-2026-01",
+  "name": "4 Hours of Le Castellet (courses 1 et 2)",
+  "venue": "Circuit Paul Ricard",
+  "start": "2026-11-14",
+  "end": "2026-11-15",
+  "sourceURL": "https://en.wikipedia.org/wiki/2026–27_Asian_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2026-27"
+ },
+ {
+  "championship": "alms",
+  "id": "alms-2027-02",
+  "name": "4 Hours of Jerez (courses 3 et 4)",
+  "venue": "Circuito de Jerez",
+  "start": "2027-01-16",
+  "end": "2027-01-17",
+  "sourceURL": "https://en.wikipedia.org/wiki/2026–27_Asian_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2026-27"
+ },
+ {
+  "championship": "alms",
+  "id": "alms-2027-03",
+  "name": "4 Hours of Portimão (courses 5 et 6)",
+  "venue": "Algarve International Circuit",
+  "start": "2027-02-20",
+  "end": "2027-02-21",
+  "sourceURL": "https://en.wikipedia.org/wiki/2026–27_Asian_Le_Mans_Series",
+  "sourceID": "wikipedia-weekend-dates-2026-27"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-01",
+  "name": "Sydney Super 440",
+  "venue": "Sydney Motorsport Park",
+  "start": "2027-02-26",
+  "end": "2027-02-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-02",
+  "name": "Tasmania Super 440",
+  "venue": "Symmons Plains Raceway",
+  "start": "2027-03-12",
+  "end": "2027-03-14",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-03",
+  "name": "Melbourne SuperSprint",
+  "venue": "Albert Park Circuit",
+  "start": "2027-04-01",
+  "end": "2027-04-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-04",
+  "name": "Christchurch Super 440",
+  "venue": "Euromarque Motorsport Park",
+  "start": "2027-05-07",
+  "end": "2027-05-09",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-05",
+  "name": "Taupō Super 440",
+  "venue": "Taupō International Motorsport Park",
+  "start": "2027-05-14",
+  "end": "2027-05-16",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-06",
+  "name": "Darwin Triple Crown",
+  "venue": "Hidden Valley Raceway",
+  "start": "2027-06-18",
+  "end": "2027-06-20",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-07",
+  "name": "Townsville 500",
+  "venue": "Reid Park Street Circuit",
+  "start": "2027-07-09",
+  "end": "2027-07-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-08",
+  "name": "Perth Super 440",
+  "venue": "Wanneroo Raceway",
+  "start": "2027-08-06",
+  "end": "2027-08-08",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-09",
+  "name": "Sandown 500",
+  "venue": "Sandown Raceway",
+  "start": "2027-08-27",
+  "end": "2027-08-29",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-10",
+  "name": "The Bend 500",
+  "venue": "The Bend Motorsport Park",
+  "start": "2027-09-17",
+  "end": "2027-09-19",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-11",
+  "name": "Bathurst 1000",
+  "venue": "Mount Panorama Circuit",
+  "start": "2027-10-07",
+  "end": "2027-10-10",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-12",
+  "name": "Gold Coast 500",
+  "venue": "Surfers Paradise Street Circuit",
+  "start": "2027-10-22",
+  "end": "2027-10-24",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-13",
+  "name": "Phillip Island 500",
+  "venue": "Phillip Island Grand Prix Circuit",
+  "start": "2027-11-05",
+  "end": "2027-11-07",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "supercars",
+  "id": "supercars-2027-14",
+  "name": "Adelaide Grand Final",
+  "venue": "Adelaide Street Circuit",
+  "start": "2027-11-25",
+  "end": "2027-11-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Supercars_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-01",
+  "name": "Donington Park (National)",
+  "venue": "Donington Park",
+  "start": "2027-04-10",
+  "end": "2027-04-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-02",
+  "name": "Brands Hatch (Indy)",
+  "venue": "Brands Hatch",
+  "start": "2027-05-08",
+  "end": "2027-05-09",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-03",
+  "name": "Snetterton (300)",
+  "venue": "Snetterton",
+  "start": "2027-05-29",
+  "end": "2027-05-30",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-04",
+  "name": "Oulton Park (Island)",
+  "venue": "Oulton Park",
+  "start": "2027-06-12",
+  "end": "2027-06-13",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-05",
+  "name": "Thruxton",
+  "venue": "Thruxton Circuit",
+  "start": "2027-07-24",
+  "end": "2027-07-25",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-06",
+  "name": "Knockhill",
+  "venue": "Knockhill Racing Circuit",
+  "start": "2027-08-07",
+  "end": "2027-08-08",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-07",
+  "name": "Croft",
+  "venue": "Croft Circuit",
+  "start": "2027-08-14",
+  "end": "2027-08-15",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-08",
+  "name": "Donington Park (GP)",
+  "venue": "Donington Park",
+  "start": "2027-09-11",
+  "end": "2027-09-12",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-09",
+  "name": "Silverstone (National)",
+  "venue": "Silverstone Circuit",
+  "start": "2027-09-25",
+  "end": "2027-09-26",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "btcc",
+  "id": "btcc-2027-10",
+  "name": "Brands Hatch (GP)",
+  "venue": "Brands Hatch",
+  "start": "2027-10-09",
+  "end": "2027-10-10",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dakar",
+  "id": "dakar-2027-01",
+  "name": "Dakar Rally",
+  "venue": "Portugal – Maroc (Loulé → Marrakech)",
+  "start": "2027-01-09",
+  "end": "2027-01-23",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Dakar_Rally",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-01",
+  "name": "DTM Red Bull Ring",
+  "venue": "Red Bull Ring",
+  "start": "2027-04-24",
+  "end": "2027-04-25",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-02",
+  "name": "DTM Oschersleben",
+  "venue": "Motorsport Arena Oschersleben",
+  "start": "2027-05-08",
+  "end": "2027-05-09",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-03",
+  "name": "DTM Lausitzring",
+  "venue": "Lausitzring",
+  "start": "2027-06-19",
+  "end": "2027-06-20",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-04",
+  "name": "DTM Norisring",
+  "venue": "Norisring",
+  "start": "2027-07-03",
+  "end": "2027-07-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-05",
+  "name": "DTM Zandvoort",
+  "venue": "Circuit Zandvoort",
+  "start": "2027-08-07",
+  "end": "2027-08-08",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-06",
+  "name": "DTM Nürburgring",
+  "venue": "Nürburgring",
+  "start": "2027-08-21",
+  "end": "2027-08-22",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-07",
+  "name": "DTM Sachsenring",
+  "venue": "Sachsenring",
+  "start": "2027-09-25",
+  "end": "2027-09-26",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "dtm",
+  "id": "dtm-2027-08",
+  "name": "DTM Hockenheimring",
+  "venue": "Hockenheimring",
+  "start": "2027-10-09",
+  "end": "2027-10-10",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Deutsche_Tourenwagen_Masters",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-01",
+  "name": "Sonoma",
+  "venue": "Sonoma Raceway",
+  "start": "2027-04-02",
+  "end": "2027-04-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-02",
+  "name": "Texas 8 Hour",
+  "venue": "Circuit of the Americas",
+  "start": "2027-05-08",
+  "end": "2027-05-09",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-03",
+  "name": "Watkins Glen",
+  "venue": "Watkins Glen International",
+  "start": "2027-05-21",
+  "end": "2027-05-23",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-04",
+  "name": "Road Atlanta",
+  "venue": "Road Atlanta",
+  "start": "2027-06-18",
+  "end": "2027-06-20",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-05",
+  "name": "Road America",
+  "venue": "Road America",
+  "start": "2027-08-27",
+  "end": "2027-08-29",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-06",
+  "name": "Barber",
+  "venue": "Barber Motorsports Park",
+  "start": "2027-09-10",
+  "end": "2027-09-12",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_america",
+  "id": "gtwc_america-2027-07",
+  "name": "Indianapolis",
+  "venue": "Indianapolis Motor Speedway",
+  "start": "2027-10-01",
+  "end": "2027-10-03",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_America",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_asia",
+  "id": "gtwc_asia-2027-01",
+  "name": "Sepang",
+  "venue": "Sepang International Circuit",
+  "start": "2027-04-03",
+  "end": "2027-04-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Asia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_asia",
+  "id": "gtwc_asia-2027-02",
+  "name": "Chang",
+  "venue": "Chang International Circuit",
+  "start": "2027-05-01",
+  "end": "2027-05-02",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Asia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_asia",
+  "id": "gtwc_asia-2027-03",
+  "name": "Suzuka",
+  "venue": "Suzuka International Racing Course",
+  "start": "2027-06-12",
+  "end": "2027-06-13",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Asia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_asia",
+  "id": "gtwc_asia-2027-04",
+  "name": "Fuji",
+  "venue": "Fuji Speedway",
+  "start": "2027-07-10",
+  "end": "2027-07-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Asia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_asia",
+  "id": "gtwc_asia-2027-05",
+  "name": "Beijing",
+  "venue": "Beijing Street Circuit",
+  "start": "2027-10-02",
+  "end": "2027-10-03",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Asia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_asia",
+  "id": "gtwc_asia-2027-06",
+  "name": "Shanghai",
+  "venue": "Shanghai International Circuit",
+  "start": "2027-10-23",
+  "end": "2027-10-24",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Asia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_australia",
+  "id": "gtwc_australia-2027-01",
+  "name": "Phillip Island",
+  "venue": "Phillip Island Grand Prix Circuit",
+  "start": "2027-04-16",
+  "end": "2027-04-18",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Australia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_australia",
+  "id": "gtwc_australia-2027-02",
+  "name": "The Bend",
+  "venue": "The Bend Motorsport Park",
+  "start": "2027-05-28",
+  "end": "2027-05-30",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Australia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_australia",
+  "id": "gtwc_australia-2027-03",
+  "name": "Sydney",
+  "venue": "Sydney Motorsport Park",
+  "start": "2027-07-23",
+  "end": "2027-07-25",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Australia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_australia",
+  "id": "gtwc_australia-2027-04",
+  "name": "Queensland",
+  "venue": "Queensland Raceway",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Australia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_australia",
+  "id": "gtwc_australia-2027-05",
+  "name": "Bathurst",
+  "venue": "Mount Panorama Circuit",
+  "start": "2027-10-29",
+  "end": "2027-10-31",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Australia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gtwc_australia",
+  "id": "gtwc_australia-2027-06",
+  "name": "Adelaide",
+  "venue": "Adelaide Street Circuit",
+  "start": "2027-11-25",
+  "end": "2027-11-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT_World_Challenge_Australia",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gt4_europe",
+  "id": "gt4_europe-2027-01",
+  "name": "Paul Ricard",
+  "venue": "Circuit Paul Ricard",
+  "start": "2027-04-16",
+  "end": "2027-04-18",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT4_European_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gt4_europe",
+  "id": "gt4_europe-2027-02",
+  "name": "Imola",
+  "venue": "Imola Circuit",
+  "start": "2027-05-21",
+  "end": "2027-05-23",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT4_European_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gt4_europe",
+  "id": "gt4_europe-2027-03",
+  "name": "Spa-Francorchamps",
+  "venue": "Circuit de Spa-Francorchamps",
+  "start": "2027-06-24",
+  "end": "2027-06-27",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT4_European_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gt4_europe",
+  "id": "gt4_europe-2027-04",
+  "name": "Misano",
+  "venue": "Misano World Circuit",
+  "start": "2027-07-16",
+  "end": "2027-07-18",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT4_European_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gt4_europe",
+  "id": "gt4_europe-2027-05",
+  "name": "Zandvoort",
+  "venue": "Circuit Zandvoort",
+  "start": "2027-09-17",
+  "end": "2027-09-19",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT4_European_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "gt4_europe",
+  "id": "gt4_europe-2027-06",
+  "name": "Barcelona",
+  "venue": "Circuit de Barcelona-Catalunya",
+  "start": "2027-10-22",
+  "end": "2027-10-24",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_GT4_European_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-01",
+  "name": "Suzuka (manches 1)",
+  "venue": "Suzuka International Racing Course",
+  "start": "2027-03-13",
+  "end": "2027-03-14",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-02",
+  "name": "Motegi (manches 2 et 3)",
+  "venue": "Mobility Resort Motegi",
+  "start": "2027-04-17",
+  "end": "2027-04-18",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-03",
+  "name": "Autopolis (manches 4 et 5)",
+  "venue": "Autopolis",
+  "start": "2027-05-15",
+  "end": "2027-05-16",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-04",
+  "name": "Sportsland SUGO (manche 6)",
+  "venue": "Sportsland SUGO",
+  "start": "2027-06-26",
+  "end": "2027-06-27",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-05",
+  "name": "Fuji (manche 7)",
+  "venue": "Fuji Speedway",
+  "start": "2027-07-17",
+  "end": "2027-07-18",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-06",
+  "name": "Manches 8 et 9 (circuit à confirmer)",
+  "venue": "À confirmer",
+  "start": "2027-10-09",
+  "end": "2027-10-10",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "super_formula",
+  "id": "super_formula-2027-07",
+  "name": "Suzuka (manches 10 et 11)",
+  "venue": "Suzuka International Racing Course",
+  "start": "2027-11-27",
+  "end": "2027-11-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Super_Formula_Championship",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-01",
+  "name": "St. Petersburg",
+  "venue": "St. Petersburg Street Circuit",
+  "start": "2027-03-07",
+  "end": "2027-03-07",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-02",
+  "name": "Arlington",
+  "venue": "Arlington Street Circuit",
+  "start": "2027-03-21",
+  "end": "2027-03-21",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-03",
+  "name": "Barber (course 1)",
+  "venue": "Barber Motorsports Park",
+  "start": "2027-04-03",
+  "end": "2027-04-03",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-04",
+  "name": "Barber (course 2)",
+  "venue": "Barber Motorsports Park",
+  "start": "2027-04-04",
+  "end": "2027-04-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-05",
+  "name": "Indianapolis Road Course",
+  "venue": "Indianapolis Motor Speedway Road Course",
+  "start": "2027-05-15",
+  "end": "2027-05-15",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-06",
+  "name": "Detroit",
+  "venue": "Detroit Street Circuit",
+  "start": "2027-06-06",
+  "end": "2027-06-06",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-07",
+  "name": "World Wide Technology Raceway",
+  "venue": "World Wide Technology Raceway",
+  "start": "2027-06-13",
+  "end": "2027-06-13",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-08",
+  "name": "Road America (course 1)",
+  "venue": "Road America",
+  "start": "2027-06-26",
+  "end": "2027-06-26",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-09",
+  "name": "Road America (course 2)",
+  "venue": "Road America",
+  "start": "2027-06-27",
+  "end": "2027-06-27",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-10",
+  "name": "Mid-Ohio (course 1)",
+  "venue": "Mid-Ohio Sports Car Course",
+  "start": "2027-07-03",
+  "end": "2027-07-03",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-11",
+  "name": "Mid-Ohio (course 2)",
+  "venue": "Mid-Ohio Sports Car Course",
+  "start": "2027-07-04",
+  "end": "2027-07-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-12",
+  "name": "Portland",
+  "venue": "Portland International Raceway",
+  "start": "2027-07-31",
+  "end": "2027-07-31",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-13",
+  "name": "Milwaukee Mile",
+  "venue": "Milwaukee Mile",
+  "start": "2027-08-28",
+  "end": "2027-08-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-14",
+  "name": "Laguna Seca (course 1)",
+  "venue": "WeatherTech Raceway Laguna Seca",
+  "start": "2027-09-04",
+  "end": "2027-09-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "indy_nxt",
+  "id": "indy_nxt-2027-15",
+  "name": "Laguna Seca (course 2)",
+  "venue": "WeatherTech Raceway Laguna Seca",
+  "start": "2027-09-05",
+  "end": "2027-09-05",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_Indy_NXT",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-01",
+  "name": "NHRA Winternationals",
+  "venue": "Pomona Dragstrip (Californie)",
+  "start": "2027-02-18",
+  "end": "2027-02-21",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-02",
+  "name": "NHRA Arizona Nationals",
+  "venue": "Firebird Motorsports Park (Arizona)",
+  "start": "2027-02-26",
+  "end": "2027-02-28",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-03",
+  "name": "Gatornationals",
+  "venue": "Gainesville Raceway (Floride)",
+  "start": "2027-03-11",
+  "end": "2027-03-14",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-04",
+  "name": "NHRA 4-Wide Nationals",
+  "venue": "zMAX Dragway (Caroline du Nord)",
+  "start": "2027-04-02",
+  "end": "2027-04-04",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-05",
+  "name": "NHRA Southern Nationals",
+  "venue": "South Georgia Motorsports Park",
+  "start": "2027-04-30",
+  "end": "2027-05-02",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-06",
+  "name": "NHRA Potomac Nationals",
+  "venue": "Maryland International Raceway",
+  "start": "2027-05-21",
+  "end": "2027-05-23",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-07",
+  "name": "NHRA New England Nationals",
+  "venue": "New England Dragway",
+  "start": "2027-06-04",
+  "end": "2027-06-06",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-08",
+  "name": "NHRA Thunder Valley Nationals",
+  "venue": "Bristol Dragway (Tennessee)",
+  "start": "2027-06-11",
+  "end": "2027-06-13",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-09",
+  "name": "NHRA Summit Racing Nationals",
+  "venue": "Summit Motorsports Park (Ohio)",
+  "start": "2027-06-24",
+  "end": "2027-06-27",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-10",
+  "name": "NHRA Route 66 Nationals",
+  "venue": "Route 66 Raceway (Illinois)",
+  "start": "2027-07-09",
+  "end": "2027-07-11",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-11",
+  "name": "NHRA Sonoma Nationals",
+  "venue": "Sonoma Raceway",
+  "start": "2027-07-23",
+  "end": "2027-07-25",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-12",
+  "name": "NHRA Northwest Nationals",
+  "venue": "Pacific Raceways (Washington)",
+  "start": "2027-07-30",
+  "end": "2027-08-01",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-13",
+  "name": "NHRA Brainerd Nationals",
+  "venue": "Brainerd International Raceway",
+  "start": "2027-08-19",
+  "end": "2027-08-22",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-14",
+  "name": "NHRA U.S. Nationals",
+  "venue": "Lucas Oil Raceway (Indiana)",
+  "start": "2027-09-01",
+  "end": "2027-09-06",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-15",
+  "name": "NHRA Great Lakes Nationals",
+  "venue": "U.S. 131 Motorsports Park (Michigan)",
+  "start": "2027-09-17",
+  "end": "2027-09-19",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-16",
+  "name": "NHRA Nationals at The Rock",
+  "venue": "Rockingham Dragway (Caroline du Nord)",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-17",
+  "name": "NHRA Midwest Nationals",
+  "venue": "World Wide Technology Raceway",
+  "start": "2027-10-01",
+  "end": "2027-10-03",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-18",
+  "name": "Texas NHRA FallNationals",
+  "venue": "Texas Motorplex",
+  "start": "2027-10-13",
+  "end": "2027-10-17",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-19",
+  "name": "NHRA Las Vegas Nationals",
+  "venue": "Las Vegas Motor Speedway",
+  "start": "2027-10-28",
+  "end": "2027-10-31",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "nhra",
+  "id": "nhra-2027-20",
+  "name": "NHRA Finals",
+  "venue": "Pomona Dragstrip (Californie)",
+  "start": "2027-11-11",
+  "end": "2027-11-14",
+  "sourceURL": "https://en.wikipedia.org/wiki/2027_NHRA_Mission_Foods_Drag_Racing_Series",
+  "sourceID": "wikipedia-weekend-dates-2027"
+ },
+ {
+  "championship": "british_gt",
+  "id": "british_gt-2027-01",
+  "name": "Snetterton",
+  "venue": "Snetterton",
+  "start": "2027-04-10",
+  "end": "2027-04-11",
+  "sourceURL": "https://www.britishgt.com/news/1264/2027-snetterton-and-silverstone-british-gt-dates-revised",
+  "sourceID": "official-news-weekend-dates-2027"
+ },
+ {
+  "championship": "british_gt",
+  "id": "british_gt-2027-02",
+  "name": "Oulton Park",
+  "venue": "Oulton Park",
+  "start": "2027-05-29",
+  "end": "2027-05-31",
+  "sourceURL": "https://www.britishgt.com/news/1264/2027-snetterton-and-silverstone-british-gt-dates-revised",
+  "sourceID": "official-news-weekend-dates-2027"
+ },
+ {
+  "championship": "british_gt",
+  "id": "british_gt-2027-03",
+  "name": "Brands Hatch",
+  "venue": "Brands Hatch",
+  "start": "2027-09-11",
+  "end": "2027-09-12",
+  "sourceURL": "https://www.britishgt.com/news/1264/2027-snetterton-and-silverstone-british-gt-dates-revised",
+  "sourceID": "official-news-weekend-dates-2027"
+ },
+ {
+  "championship": "british_gt",
+  "id": "british_gt-2027-04",
+  "name": "Donington Park",
+  "venue": "Donington Park",
+  "start": "2027-10-16",
+  "end": "2027-10-17",
+  "sourceURL": "https://www.britishgt.com/news/1264/2027-snetterton-and-silverstone-british-gt-dates-revised",
+  "sourceID": "official-news-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-01",
+  "name": "F2 · Bahrain Grand Prix",
+  "venue": "Sakhir",
+  "start": "2027-03-12",
+  "end": "2027-03-14",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-02",
+  "name": "F2 · Saudi",
+  "venue": "Jeddah",
+  "start": "2027-03-19",
+  "end": "2027-03-21",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-03",
+  "name": "F2 · Australia",
+  "venue": "Melbourne",
+  "start": "2027-04-02",
+  "end": "2027-04-04",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-04",
+  "name": "F2 · Canada",
+  "venue": "Montréal",
+  "start": "2027-05-21",
+  "end": "2027-05-23",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-05",
+  "name": "F2 · Monaco",
+  "venue": "Monaco",
+  "start": "2027-06-04",
+  "end": "2027-06-06",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-06",
+  "name": "F2 · Great Britain",
+  "venue": "Silverstone",
+  "start": "2027-07-02",
+  "end": "2027-07-04",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-07",
+  "name": "F2 · Austria",
+  "venue": "Spielberg",
+  "start": "2027-07-09",
+  "end": "2027-07-11",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-08",
+  "name": "F2 · Italy",
+  "venue": "Monza",
+  "start": "2027-09-03",
+  "end": "2027-09-05",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-09",
+  "name": "F2 · Spain",
+  "venue": "Madrid",
+  "start": "2027-09-10",
+  "end": "2027-09-12",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-10",
+  "name": "F2 · Azerbaijan",
+  "venue": "Baku",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-11",
+  "name": "F2 · Türkiye",
+  "venue": "Istanbul",
+  "start": "2027-10-01",
+  "end": "2027-10-03",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-12",
+  "name": "F2 · Mexico",
+  "venue": "Mexico City",
+  "start": "2027-10-29",
+  "end": "2027-10-31",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-13",
+  "name": "F2 · Qatar",
+  "venue": "Lusail",
+  "start": "2027-12-03",
+  "end": "2027-12-05",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f2",
+  "id": "f2-2027-14",
+  "name": "F2 · Abu Dhabi",
+  "venue": "Yas Marina",
+  "start": "2027-12-10",
+  "end": "2027-12-12",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-01",
+  "name": "F3 · Bahrain Grand Prix",
+  "venue": "Sakhir",
+  "start": "2027-03-12",
+  "end": "2027-03-14",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-02",
+  "name": "F3 · Saudi",
+  "venue": "Jeddah",
+  "start": "2027-03-19",
+  "end": "2027-03-21",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-03",
+  "name": "F3 · Australia",
+  "venue": "Melbourne",
+  "start": "2027-04-02",
+  "end": "2027-04-04",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-04",
+  "name": "F3 · Canada",
+  "venue": "Montréal",
+  "start": "2027-05-21",
+  "end": "2027-05-23",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-05",
+  "name": "F3 · Monaco",
+  "venue": "Monaco",
+  "start": "2027-06-04",
+  "end": "2027-06-06",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-06",
+  "name": "F3 · Great Britain",
+  "venue": "Silverstone",
+  "start": "2027-07-02",
+  "end": "2027-07-04",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-07",
+  "name": "F3 · Austria",
+  "venue": "Spielberg",
+  "start": "2027-07-09",
+  "end": "2027-07-11",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-08",
+  "name": "F3 · Italy",
+  "venue": "Monza",
+  "start": "2027-09-03",
+  "end": "2027-09-05",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-09",
+  "name": "F3 · Spain",
+  "venue": "Madrid",
+  "start": "2027-09-10",
+  "end": "2027-09-12",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "f3",
+  "id": "f3-2027-10",
+  "name": "F3 · Türkiye",
+  "venue": "Istanbul",
+  "start": "2027-10-01",
+  "end": "2027-10-03",
+  "sourceURL": "https://formula1.com/en/latest/article/fia-formula-2-and-fia-formula-3-announce-2027-calendars.7IToHJjbGez7YrJpMiihyH",
+  "sourceID": "formula1-com-weekend-dates-2027"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-01",
+  "name": "Jeddah E-Prix",
+  "venue": "Jeddah Corniche Circuit",
+  "start": "2026-12-18",
+  "end": "2026-12-19",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-02",
+  "name": "Mexico City E-Prix",
+  "venue": "Autódromo Hermanos Rodríguez",
+  "start": "2027-01-16",
+  "end": "2027-01-16",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-03",
+  "name": "Austin E-Prix",
+  "venue": "Circuit of the Americas",
+  "start": "2027-02-06",
+  "end": "2027-02-06",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-04",
+  "name": "Miami E-Prix",
+  "venue": "Miami International Autodrome",
+  "start": "2027-02-20",
+  "end": "2027-02-20",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-05",
+  "name": "São Paulo E-Prix",
+  "venue": "Anhembi Sambadrome",
+  "start": "2027-03-13",
+  "end": "2027-03-13",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-06",
+  "name": "Sanya E-Prix",
+  "venue": "Haitang Bay Circuit",
+  "start": "2027-04-17",
+  "end": "2027-04-17",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-07",
+  "name": "Monaco E-Prix",
+  "venue": "Circuit de Monaco",
+  "start": "2027-05-01",
+  "end": "2027-05-02",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-08",
+  "name": "Berlin E-Prix",
+  "venue": "Tempelhof Airport Street Circuit",
+  "start": "2027-05-08",
+  "end": "2027-05-09",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-09",
+  "name": "London E-Prix",
+  "venue": "Brands Hatch",
+  "start": "2027-05-29",
+  "end": "2027-05-30",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-10",
+  "name": "Zandvoort E-Prix",
+  "venue": "Circuit Zandvoort",
+  "start": "2027-06-18",
+  "end": "2027-06-19",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-11",
+  "name": "Madrid E-Prix",
+  "venue": "Circuito del Jarama",
+  "start": "2027-06-26",
+  "end": "2027-06-27",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-12",
+  "name": "Shanghai E-Prix",
+  "venue": "Shanghai International Circuit",
+  "start": "2027-07-10",
+  "end": "2027-07-11",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "fe",
+  "id": "fe-2027-13",
+  "name": "Tokyo E-Prix",
+  "venue": "Tokyo Street Circuit",
+  "start": "2027-07-24",
+  "end": "2027-07-25",
+  "sourceURL": "https://www.fiaformulae.com/en/news/1081405",
+  "sourceID": "fiaformulae-2026-27-calendar"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-01",
+  "name": "Grand Prix of St. Petersburg",
+  "venue": "Streets of St. Petersburg",
+  "start": "2027-03-07",
+  "end": "2027-03-07",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-02",
+  "name": "Phoenix",
+  "venue": "Phoenix Raceway",
+  "start": "2027-03-13",
+  "end": "2027-03-13",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-03",
+  "name": "Arlington",
+  "venue": "Streets of Arlington",
+  "start": "2027-03-21",
+  "end": "2027-03-21",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-04",
+  "name": "Barber",
+  "venue": "Barber Motorsports Park",
+  "start": "2027-04-04",
+  "end": "2027-04-04",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-05",
+  "name": "Grand Prix of Long Beach",
+  "venue": "Streets of Long Beach",
+  "start": "2027-04-18",
+  "end": "2027-04-18",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-06",
+  "name": "GMR Grand Prix",
+  "venue": "Indianapolis Motor Speedway Road Course",
+  "start": "2027-05-15",
+  "end": "2027-05-15",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-07",
+  "name": "Indianapolis 500",
+  "venue": "Indianapolis Motor Speedway",
+  "start": "2027-05-30",
+  "end": "2027-05-30",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-08",
+  "name": "Detroit Grand Prix",
+  "venue": "Streets of Detroit",
+  "start": "2027-06-06",
+  "end": "2027-06-06",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-09",
+  "name": "St. Louis",
+  "venue": "World Wide Technology Raceway",
+  "start": "2027-06-13",
+  "end": "2027-06-13",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-10",
+  "name": "Road America",
+  "venue": "Road America",
+  "start": "2027-06-27",
+  "end": "2027-06-27",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-11",
+  "name": "Mid-Ohio",
+  "venue": "Mid-Ohio Sports Car Course",
+  "start": "2027-07-04",
+  "end": "2027-07-04",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-12",
+  "name": "Barcelona",
+  "venue": "Circuit de Barcelona-Catalunya",
+  "start": "2027-07-18",
+  "end": "2027-07-18",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-13",
+  "name": "Portland",
+  "venue": "Portland International Raceway",
+  "start": "2027-08-01",
+  "end": "2027-08-01",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-14",
+  "name": "Markham",
+  "venue": "Streets of Markham",
+  "start": "2027-08-15",
+  "end": "2027-08-15",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-15",
+  "name": "Milwaukee Mile (course 1)",
+  "venue": "Milwaukee Mile",
+  "start": "2027-08-28",
+  "end": "2027-08-29",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "indycar",
+  "id": "indycar-2027-16",
+  "name": "Laguna Seca",
+  "venue": "WeatherTech Raceway Laguna Seca",
+  "start": "2027-09-05",
+  "end": "2027-09-05",
+  "sourceURL": "https://www.indycar.com/news/2026/10/10-23-2027-schedule-phase-two",
+  "sourceID": "indycar-2027-schedule"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-01",
+  "name": "Qatar 1812km",
+  "venue": "Lusail International Circuit",
+  "start": "2027-03-25",
+  "end": "2027-03-27",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-02",
+  "name": "6 Hours of Imola",
+  "venue": "Imola",
+  "start": "2027-04-09",
+  "end": "2027-04-11",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-03",
+  "name": "6 Hours of Silverstone",
+  "venue": "Silverstone",
+  "start": "2027-04-23",
+  "end": "2027-04-25",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-04",
+  "name": "6 Hours of Spa-Francorchamps",
+  "venue": "Spa-Francorchamps",
+  "start": "2027-05-13",
+  "end": "2027-05-15",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-05",
+  "name": "24 Hours of Le Mans",
+  "venue": "Circuit de la Sarthe",
+  "start": "2027-06-09",
+  "end": "2027-06-13",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-06",
+  "name": "6 Hours of São Paulo",
+  "venue": "Interlagos",
+  "start": "2027-07-09",
+  "end": "2027-07-11",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-07",
+  "name": "Lone Star Le Mans",
+  "venue": "Circuit of The Americas",
+  "start": "2027-09-10",
+  "end": "2027-09-12",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-08",
+  "name": "6 Hours of Fuji",
+  "venue": "Fuji Speedway",
+  "start": "2027-09-24",
+  "end": "2027-09-26",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "wec",
+  "id": "wec-2027-09",
+  "name": "8 Hours of Bahrain",
+  "venue": "Bahrain International Circuit",
+  "start": "2027-11-04",
+  "end": "2027-11-06",
+  "sourceURL": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
+  "sourceID": "fiawec-2027-calendar"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-01",
+  "name": "Paul Ricard (Endurance Cup)",
+  "venue": "Circuit Paul Ricard",
+  "start": "2027-04-16",
+  "end": "2027-04-18",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-02",
+  "name": "Brands Hatch (Sprint Cup)",
+  "venue": "Brands Hatch",
+  "start": "2027-05-01",
+  "end": "2027-05-02",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-03",
+  "name": "Imola (Endurance Cup)",
+  "venue": "Imola",
+  "start": "2027-05-21",
+  "end": "2027-05-23",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-04",
+  "name": "24 Hours of Spa",
+  "venue": "Spa-Francorchamps",
+  "start": "2027-06-23",
+  "end": "2027-06-27",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-05",
+  "name": "Misano (Sprint Cup)",
+  "venue": "Misano",
+  "start": "2027-07-16",
+  "end": "2027-07-18",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-06",
+  "name": "Magny-Cours (Sprint Cup)",
+  "venue": "Magny-Cours",
+  "start": "2027-07-30",
+  "end": "2027-08-01",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-07",
+  "name": "Nürburgring (Endurance Cup)",
+  "venue": "Nürburgring",
+  "start": "2027-08-27",
+  "end": "2027-08-29",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-08",
+  "name": "Zandvoort (Sprint Cup)",
+  "venue": "Zandvoort",
+  "start": "2027-09-17",
+  "end": "2027-09-19",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-09",
+  "name": "Hungaroring (Sprint Cup)",
+  "venue": "Hungaroring",
+  "start": "2027-10-01",
+  "end": "2027-10-03",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "gtwc_europe",
+  "id": "gtwc_europe-2027-10",
+  "name": "Barcelona (Endurance Cup)",
+  "venue": "Circuit de Barcelona-Catalunya",
+  "start": "2027-10-22",
+  "end": "2027-10-24",
+  "sourceURL": "https://www.pitdebrief.com/?p=127340",
+  "sourceID": "gtwc-europe-2027-provisional"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-01",
+  "name": "The Clash",
+  "venue": "Daytona",
+  "start": "2027-02-13",
+  "end": "2027-02-13",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-02",
+  "name": "Daytona 500",
+  "venue": "Daytona",
+  "start": "2027-02-21",
+  "end": "2027-02-21",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-03",
+  "name": "Atlanta",
+  "venue": "EchoPark Speedway",
+  "start": "2027-02-28",
+  "end": "2027-02-28",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-04",
+  "name": "Circuit of the Americas",
+  "venue": "Circuit of The Americas",
+  "start": "2027-03-07",
+  "end": "2027-03-07",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-05",
+  "name": "Phoenix",
+  "venue": "Phoenix Raceway",
+  "start": "2027-03-14",
+  "end": "2027-03-14",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-06",
+  "name": "Las Vegas",
+  "venue": "Las Vegas Motor Speedway",
+  "start": "2027-03-21",
+  "end": "2027-03-21",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-07",
+  "name": "Darlington",
+  "venue": "Darlington Raceway",
+  "start": "2027-04-04",
+  "end": "2027-04-04",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-08",
+  "name": "Bristol",
+  "venue": "Bristol Motor Speedway",
+  "start": "2027-04-11",
+  "end": "2027-04-11",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-09",
+  "name": "Martinsville",
+  "venue": "Martinsville Speedway",
+  "start": "2027-04-18",
+  "end": "2027-04-18",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-10",
+  "name": "Talladega",
+  "venue": "Talladega Superspeedway",
+  "start": "2027-04-25",
+  "end": "2027-04-25",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-11",
+  "name": "Texas",
+  "venue": "Texas Motor Speedway",
+  "start": "2027-05-02",
+  "end": "2027-05-02",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-12",
+  "name": "Kansas",
+  "venue": "Kansas Speedway",
+  "start": "2027-05-09",
+  "end": "2027-05-09",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-13",
+  "name": "Dover",
+  "venue": "Dover Motor Speedway",
+  "start": "2027-05-16",
+  "end": "2027-05-16",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-14",
+  "name": "All-Star Race",
+  "venue": "North Wilkesboro Speedway",
+  "start": "2027-05-23",
+  "end": "2027-05-23",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-15",
+  "name": "Coca-Cola 600",
+  "venue": "Charlotte Motor Speedway",
+  "start": "2027-05-30",
+  "end": "2027-05-30",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-16",
+  "name": "Nashville",
+  "venue": "Nashville Superspeedway",
+  "start": "2027-06-06",
+  "end": "2027-06-06",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-17",
+  "name": "Pocono",
+  "venue": "Pocono Raceway",
+  "start": "2027-06-13",
+  "end": "2027-06-13",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-18",
+  "name": "Michigan",
+  "venue": "Michigan International Speedway",
+  "start": "2027-06-20",
+  "end": "2027-06-20",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-19",
+  "name": "Chicagoland",
+  "venue": "Chicagoland Speedway",
+  "start": "2027-06-27",
+  "end": "2027-06-27",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-20",
+  "name": "Iowa",
+  "venue": "Iowa Speedway",
+  "start": "2027-07-04",
+  "end": "2027-07-04",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-21",
+  "name": "Sonoma",
+  "venue": "Sonoma Raceway",
+  "start": "2027-07-11",
+  "end": "2027-07-11",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-22",
+  "name": "Atlanta (été)",
+  "venue": "EchoPark Speedway",
+  "start": "2027-07-18",
+  "end": "2027-07-18",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-23",
+  "name": "Brickyard",
+  "venue": "Indianapolis Motor Speedway",
+  "start": "2027-07-25",
+  "end": "2027-07-25",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-24",
+  "name": "NASCAR San Diego",
+  "venue": "Naval Base Coronado",
+  "start": "2027-08-01",
+  "end": "2027-08-01",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-25",
+  "name": "Bristol (nuit)",
+  "venue": "Bristol Motor Speedway",
+  "start": "2027-08-14",
+  "end": "2027-08-14",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-26",
+  "name": "St. Louis",
+  "venue": "World Wide Technology Raceway",
+  "start": "2027-08-22",
+  "end": "2027-08-22",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-27",
+  "name": "Daytona (été)",
+  "venue": "Daytona International Speedway",
+  "start": "2027-08-28",
+  "end": "2027-08-28",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-28",
+  "name": "Darlington (automne)",
+  "venue": "Darlington Raceway",
+  "start": "2027-09-05",
+  "end": "2027-09-05",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-29",
+  "name": "Richmond",
+  "venue": "Richmond Raceway",
+  "start": "2027-09-11",
+  "end": "2027-09-11",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-30",
+  "name": "Watkins Glen",
+  "venue": "Watkins Glen International",
+  "start": "2027-09-19",
+  "end": "2027-09-19",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-31",
+  "name": "New Hampshire",
+  "venue": "New Hampshire Motor Speedway",
+  "start": "2027-09-26",
+  "end": "2027-09-26",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-32",
+  "name": "Kansas (automne)",
+  "venue": "Kansas Speedway",
+  "start": "2027-10-03",
+  "end": "2027-10-03",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-33",
+  "name": "Las Vegas (automne)",
+  "venue": "Las Vegas Motor Speedway",
+  "start": "2027-10-10",
+  "end": "2027-10-10",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-34",
+  "name": "Charlotte (automne)",
+  "venue": "Charlotte Motor Speedway",
+  "start": "2027-10-17",
+  "end": "2027-10-17",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-35",
+  "name": "Phoenix (automne)",
+  "venue": "Phoenix Raceway",
+  "start": "2027-10-24",
+  "end": "2027-10-24",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-36",
+  "name": "Talladega (automne)",
+  "venue": "Talladega Superspeedway",
+  "start": "2027-10-31",
+  "end": "2027-10-31",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-37",
+  "name": "Martinsville (automne)",
+  "venue": "Martinsville Speedway",
+  "start": "2027-11-07",
+  "end": "2027-11-07",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_cup",
+  "id": "nascar_cup-2027-38",
+  "name": "NASCAR Championship",
+  "venue": "Homestead-Miami Speedway",
+  "start": "2027-11-14",
+  "end": "2027-11-14",
+  "sourceURL": "https://heavy.com/sports/nascar/2027-nascar-cup-series-schedule/",
+  "sourceID": "nascar-cup-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-01",
+  "name": "Daytona",
+  "venue": "Daytona International Speedway",
+  "start": "2027-02-20",
+  "end": "2027-02-20",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-02",
+  "name": "Atlanta",
+  "venue": "EchoPark Speedway",
+  "start": "2027-02-27",
+  "end": "2027-02-27",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-03",
+  "name": "Circuit of the Americas",
+  "venue": "Circuit of The Americas",
+  "start": "2027-03-06",
+  "end": "2027-03-06",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-04",
+  "name": "Phoenix",
+  "venue": "Phoenix Raceway",
+  "start": "2027-03-13",
+  "end": "2027-03-13",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-05",
+  "name": "Las Vegas",
+  "venue": "Las Vegas Motor Speedway",
+  "start": "2027-03-20",
+  "end": "2027-03-20",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-06",
+  "name": "Darlington",
+  "venue": "Darlington Raceway",
+  "start": "2027-04-03",
+  "end": "2027-04-03",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-07",
+  "name": "Bristol",
+  "venue": "Bristol Motor Speedway",
+  "start": "2027-04-10",
+  "end": "2027-04-10",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-08",
+  "name": "Martinsville",
+  "venue": "Martinsville Speedway",
+  "start": "2027-04-17",
+  "end": "2027-04-17",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-09",
+  "name": "Talladega",
+  "venue": "Talladega Superspeedway",
+  "start": "2027-04-24",
+  "end": "2027-04-24",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-10",
+  "name": "Texas",
+  "venue": "Texas Motor Speedway",
+  "start": "2027-05-01",
+  "end": "2027-05-01",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-11",
+  "name": "Dover",
+  "venue": "Dover Motor Speedway",
+  "start": "2027-05-15",
+  "end": "2027-05-15",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-12",
+  "name": "North Wilkesboro",
+  "venue": "North Wilkesboro Speedway",
+  "start": "2027-05-22",
+  "end": "2027-05-22",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-13",
+  "name": "Charlotte",
+  "venue": "Charlotte Motor Speedway",
+  "start": "2027-05-29",
+  "end": "2027-05-29",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-14",
+  "name": "Nashville",
+  "venue": "Nashville Superspeedway",
+  "start": "2027-06-05",
+  "end": "2027-06-05",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-15",
+  "name": "Pocono",
+  "venue": "Pocono Raceway",
+  "start": "2027-06-12",
+  "end": "2027-06-12",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-16",
+  "name": "Chicagoland",
+  "venue": "Chicagoland Speedway",
+  "start": "2027-06-26",
+  "end": "2027-06-26",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-17",
+  "name": "Iowa",
+  "venue": "Iowa Speedway",
+  "start": "2027-07-03",
+  "end": "2027-07-03",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-18",
+  "name": "Sonoma",
+  "venue": "Sonoma Raceway",
+  "start": "2027-07-10",
+  "end": "2027-07-10",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-19",
+  "name": "Brickyard",
+  "venue": "Indianapolis Motor Speedway",
+  "start": "2027-07-24",
+  "end": "2027-07-24",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-20",
+  "name": "NASCAR San Diego",
+  "venue": "Naval Base Coronado",
+  "start": "2027-07-31",
+  "end": "2027-07-31",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-21",
+  "name": "Bristol (nuit)",
+  "venue": "Bristol Motor Speedway",
+  "start": "2027-08-13",
+  "end": "2027-08-13",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-22",
+  "name": "St. Louis",
+  "venue": "World Wide Technology Raceway",
+  "start": "2027-08-21",
+  "end": "2027-08-21",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-23",
+  "name": "Daytona (été)",
+  "venue": "Daytona International Speedway",
+  "start": "2027-08-27",
+  "end": "2027-08-27",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-24",
+  "name": "Darlington (automne)",
+  "venue": "Darlington Raceway",
+  "start": "2027-09-04",
+  "end": "2027-09-04",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-25",
+  "name": "Richmond",
+  "venue": "Richmond Raceway",
+  "start": "2027-09-10",
+  "end": "2027-09-10",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-26",
+  "name": "Watkins Glen",
+  "venue": "Watkins Glen International",
+  "start": "2027-09-18",
+  "end": "2027-09-18",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-27",
+  "name": "Kansas",
+  "venue": "Kansas Speedway",
+  "start": "2027-10-02",
+  "end": "2027-10-02",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-28",
+  "name": "Las Vegas (automne)",
+  "venue": "Las Vegas Motor Speedway",
+  "start": "2027-10-09",
+  "end": "2027-10-09",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-29",
+  "name": "Charlotte (automne)",
+  "venue": "Charlotte Motor Speedway",
+  "start": "2027-10-16",
+  "end": "2027-10-16",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-30",
+  "name": "Phoenix (automne)",
+  "venue": "Phoenix Raceway",
+  "start": "2027-10-23",
+  "end": "2027-10-23",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-31",
+  "name": "Talladega (automne)",
+  "venue": "Talladega Superspeedway",
+  "start": "2027-10-30",
+  "end": "2027-10-30",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-32",
+  "name": "Martinsville (automne)",
+  "venue": "Martinsville Speedway",
+  "start": "2027-11-06",
+  "end": "2027-11-06",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_xfinity",
+  "id": "nascar_xfinity-2027-33",
+  "name": "NASCAR Championship",
+  "venue": "Homestead-Miami Speedway",
+  "start": "2027-11-13",
+  "end": "2027-11-13",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-oreilly-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-01",
+  "name": "Daytona",
+  "venue": "Daytona International Speedway",
+  "start": "2027-02-19",
+  "end": "2027-02-19",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-02",
+  "name": "Atlanta",
+  "venue": "EchoPark Speedway",
+  "start": "2027-02-27",
+  "end": "2027-02-27",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-03",
+  "name": "Grand Prix of St. Petersburg",
+  "venue": "Streets of St. Petersburg",
+  "start": "2027-03-06",
+  "end": "2027-03-06",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-04",
+  "name": "Darlington",
+  "venue": "Darlington Raceway",
+  "start": "2027-04-02",
+  "end": "2027-04-02",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-05",
+  "name": "Bristol",
+  "venue": "Bristol Motor Speedway",
+  "start": "2027-04-09",
+  "end": "2027-04-09",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-06",
+  "name": "Texas",
+  "venue": "Texas Motor Speedway",
+  "start": "2027-04-30",
+  "end": "2027-04-30",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-07",
+  "name": "Kansas",
+  "venue": "Kansas Speedway",
+  "start": "2027-05-08",
+  "end": "2027-05-08",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-08",
+  "name": "North Wilkesboro",
+  "venue": "North Wilkesboro Speedway",
+  "start": "2027-05-21",
+  "end": "2027-05-21",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-09",
+  "name": "Charlotte",
+  "venue": "Charlotte Motor Speedway",
+  "start": "2027-05-28",
+  "end": "2027-05-28",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-10",
+  "name": "Nashville",
+  "venue": "Nashville Superspeedway",
+  "start": "2027-06-04",
+  "end": "2027-06-04",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-11",
+  "name": "Pocono",
+  "venue": "Pocono Raceway",
+  "start": "2027-06-11",
+  "end": "2027-06-11",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-12",
+  "name": "Michigan",
+  "venue": "Michigan International Speedway",
+  "start": "2027-06-19",
+  "end": "2027-06-19",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-13",
+  "name": "Lime Rock Park",
+  "venue": "Lime Rock Park",
+  "start": "2027-07-10",
+  "end": "2027-07-10",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-14",
+  "name": "Atlanta (été)",
+  "venue": "EchoPark Speedway",
+  "start": "2027-07-17",
+  "end": "2027-07-17",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-15",
+  "name": "Indianapolis Raceway Park",
+  "venue": "Lucas Oil Indianapolis Raceway Park",
+  "start": "2027-07-23",
+  "end": "2027-07-23",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-16",
+  "name": "Bristol (nuit)",
+  "venue": "Bristol Motor Speedway",
+  "start": "2027-08-12",
+  "end": "2027-08-12",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-17",
+  "name": "Bowman Gray",
+  "venue": "Bowman Gray Stadium",
+  "start": "2027-08-20",
+  "end": "2027-08-20",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-18",
+  "name": "Mosport",
+  "venue": "Canadian Tire Motorsport Park",
+  "start": "2027-09-05",
+  "end": "2027-09-05",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-19",
+  "name": "New Hampshire",
+  "venue": "New Hampshire Motor Speedway",
+  "start": "2027-09-25",
+  "end": "2027-09-25",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-20",
+  "name": "Kansas (automne)",
+  "venue": "Kansas Speedway",
+  "start": "2027-10-01",
+  "end": "2027-10-01",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-21",
+  "name": "Charlotte (automne)",
+  "venue": "Charlotte Motor Speedway",
+  "start": "2027-10-15",
+  "end": "2027-10-15",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-22",
+  "name": "Phoenix",
+  "venue": "Phoenix Raceway",
+  "start": "2027-10-22",
+  "end": "2027-10-22",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-23",
+  "name": "Talladega",
+  "venue": "Talladega Superspeedway",
+  "start": "2027-10-29",
+  "end": "2027-10-29",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-24",
+  "name": "Martinsville",
+  "venue": "Martinsville Speedway",
+  "start": "2027-11-05",
+  "end": "2027-11-05",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ },
+ {
+  "championship": "nascar_trucks",
+  "id": "nascar_trucks-2027-25",
+  "name": "NASCAR Championship",
+  "venue": "Homestead-Miami Speedway",
+  "start": "2027-11-12",
+  "end": "2027-11-12",
+  "sourceURL": "https://speedsport.com/nascar/nascar-cup-series/nascar-unveils-3-national-series-schedules/",
+  "sourceID": "nascar-trucks-2027-schedule"
+ }
+]

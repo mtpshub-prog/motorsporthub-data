@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "files": [
     {
       "name": "manual-careers",
@@ -15,7 +15,7 @@
     },
     {
       "name": "careers-seed",
-      "sha256": "dadd40eae22f6f33175cbf17355866dea79866c57f48152acb3c42b1fe82003b"
+      "sha256": "4125e6921104e92e24d08ec45da50c02feced8d54ed3928f5c72b235c0f25326"
     },
     {
       "name": "calendars-extra",

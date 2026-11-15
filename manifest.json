@@ -1,25 +1,25 @@
 {
- "version": 3,
- "files": [
-  {
-   "name": "manual-careers",
-   "sha256": "47d0dbed9fadaeb84f88529f60ed2f90dbb1c0d1c8f01aea5688d0c2a21c0a98"
-  },
-  {
-   "name": "person-info",
-   "sha256": "1d79647d1f69c03cf65d4b43570e55c5a99aedb6785b71f86db1789ef167895b"
-  },
-  {
-   "name": "directory-extra",
-   "sha256": "36eb139e40b0096204ee6020925e47f43f3900171765cb2a255fd6529c8788fd"
-  },
-  {
-   "name": "careers-seed",
-   "sha256": "18295a90b66f419eb3af9447375767dddcf847a36638c25cb5f0d758a78bb66a"
-  },
-  {
-   "name": "calendars-extra",
-   "sha256": "85caa580eb63f202aa1e2ea39d8a99eb50cca9d7098b3134350d6d7b7ff15889"
-  }
- ]
+  "version": 4,
+  "files": [
+    {
+      "name": "manual-careers",
+      "sha256": "47d0dbed9fadaeb84f88529f60ed2f90dbb1c0d1c8f01aea5688d0c2a21c0a98"
+    },
+    {
+      "name": "person-info",
+      "sha256": "1d79647d1f69c03cf65d4b43570e55c5a99aedb6785b71f86db1789ef167895b"
+    },
+    {
+      "name": "directory-extra",
+      "sha256": "36eb139e40b0096204ee6020925e47f43f3900171765cb2a255fd6529c8788fd"
+    },
+    {
+      "name": "careers-seed",
+      "sha256": "dadd40eae22f6f33175cbf17355866dea79866c57f48152acb3c42b1fe82003b"
+    },
+    {
+      "name": "calendars-extra",
+      "sha256": "85caa580eb63f202aa1e2ea39d8a99eb50cca9d7098b3134350d6d7b7ff15889"
+    }
+  ]
 }

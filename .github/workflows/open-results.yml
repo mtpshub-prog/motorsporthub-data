@@ -24,9 +24,11 @@ jobs:
               subprocess.run(["git", "checkout", "--", "results.json"], check=False)
               sys.exit("too few championships parsed: keeping the previous file")
           PY
+      - name: Build race-details.json (F1 race classifications for the Bingo; only new races are fetched)
+        run: python3 tools/race_details.py --results results.json --previous race-details.json --out race-details.json || echo "race details skipped, keeping the previous file"
       - name: Commit
         run: |
           git config user.name "data-bot"
           git config user.email "data-bot@users.noreply.github.com"
-          git add results.json
+          git add results.json race-details.json
           git diff --cached --quiet || (git commit -m "Refresh open results" && git push)

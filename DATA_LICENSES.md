@@ -11,3 +11,7 @@ Other files (`manual-careers`, `person-info`, `directory-extra`, `calendars-extr
 Source: the English-language Wikipedia season articles (link given for each championship inside the file), text licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Only facts are extracted (winners, pole, fastest lap, points tables), never prose.
 Rebuilt every day by `tools/open_results.py` (workflow `.github/workflows/open-results.yml`, one request per article). Attribution: Wikipedia contributors; share-alike applies to this file.
+
+`race-details.json` — final classification of each Formula 1 Grand Prix of the season (position, driver, team, laps, time or reason of retirement, grid slot, points), the notes written under the table (penalties) and four yes/no facts read from the race report (red flag, safety car, virtual safety car, rain).
+Source: the English-language Wikipedia Grand Prix articles (link given for each race inside the file), text licensed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Only facts are extracted, never prose. Built by `tools/race_details.py` (same workflow as `results.json`; one request per new race, races older than 21 days are kept as they are). Attribution: Wikipedia contributors; share-alike applies to this file.

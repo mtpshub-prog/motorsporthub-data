@@ -1,0 +1,32 @@
+name: Open results
+on:
+  schedule:
+    - cron: "30 4 * * *"
+    - cron: "30 21 * * 0"   # Sunday evening: right after most race weekends
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Build results.json (one polite request per season article)
+        run: python3 tools/open_results.py --out results.json
+      - name: Keep the previous file if the new one is clearly broken (fewer than 12 championships)
+        run: |
+          python3 - <<'PY'
+          import json, subprocess, sys
+          new = json.load(open("results.json"))["championships"]
+          if len(new) < 12:
+              subprocess.run(["git", "checkout", "--", "results.json"], check=False)
+              sys.exit("too few championships parsed: keeping the previous file")
+          PY
+      - name: Commit
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add results.json
+          git diff --cached --quiet || (git commit -m "Refresh open results" && git push)
